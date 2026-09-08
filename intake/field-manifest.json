@@ -1514,9 +1514,9 @@
           "hero",
           "stats",
           "offercard",
-          "categories",
           "products",
           "imagecards",
+          "categories",
           "benefits",
           "gallery",
           "reviews",
@@ -1528,7 +1528,8 @@
           "ctaband",
           "cta",
           "trust",
-          "bignumber"
+          "bignumber",
+          "countdown"
         ]
       },
       "source": "composed",
