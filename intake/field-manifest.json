@@ -206,7 +206,7 @@
       "constraints": {
         "integer": true,
         "min": 1800,
-        "max": 2026
+        "max": 2100
       },
       "source": "ask",
       "group": "business",
@@ -1514,9 +1514,9 @@
           "hero",
           "stats",
           "offercard",
+          "categories",
           "products",
           "imagecards",
-          "categories",
           "benefits",
           "gallery",
           "reviews",
