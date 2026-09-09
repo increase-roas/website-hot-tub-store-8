@@ -778,13 +778,13 @@ export const rawClientConfig: ClientConfigInput = {
       "enabled": false
     },
     "meta": {
-      "enabled": false
+      "enabled": true
     },
     "zaraz": {
-      "enabled": false
+      "enabled": true
     },
     "sentry": {
-      "enabled": false
+      "enabled": true
     }
   }
 };

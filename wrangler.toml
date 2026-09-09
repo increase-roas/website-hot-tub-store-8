@@ -1,4 +1,4 @@
-name = "website-hot-tub-store-8"
+name = "website-hot-tub-store-8-preview"
 compatibility_date = "2026-08-01"
 compatibility_flags = ["nodejs_compat", "nodejs_als"]
 
@@ -7,8 +7,8 @@ enabled = true
 
 [[d1_databases]]
 binding = "DB"
-database_name = "website-hot-tub-store-8-inventory"
-database_id = "755c0c04-02d2-4f97-bac6-4533f81c203a"
+database_name = "website-hot-tub-store-8-preview-inventory"
+database_id = "346d1111-34ba-49ab-80d7-674447290026"
 
 [[r2_buckets]]
 binding = "PRODUCT_IMAGES"
@@ -16,4 +16,4 @@ bucket_name = "website-hot-tub-store-8-images"
 
 [[kv_namespaces]]
 binding = "SESSION"
-id = "39cd9ffcb3d04f5bb4289f0e0ca006fc"
+id = "ca5b7e356be241378868de5126a82d46"
