@@ -778,7 +778,7 @@ export const rawClientConfig: ClientConfigInput = {
       "enabled": false
     },
     "meta": {
-      "enabled": true
+      "enabled": false
     },
     "zaraz": {
       "enabled": true
